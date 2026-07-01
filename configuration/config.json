@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "company_name": "Acme Invoice Services",
+    "company_id": "ACME-2026",
+    "currency": "AUD",
+    "address": "123 Invoice Lane, Suite 400, Sydney, NSW 2000"
+  },
+  "theme": {
+    "primary_color": [31, 97, 156],
+    "secondary_color": [230, 126, 34],
+    "text_dark": [34, 34, 34],
+    "text_muted": [112, 112, 112],
+    "background_highlight": [248, 249, 250]
+  }
+}
